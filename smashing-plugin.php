@@ -11,6 +11,6 @@ if( ! class_exists( 'Smashing_Updater' ) ){
 }
 
 $updater = new Smashing_Updater( __FILE__ );
-$updater->set_username( 'rayman813' );
-$updater->set_repository( 'smashing-updater-plugin' );
+$updater->set_username( 'kingstoko' );
+$updater->set_repository( 'bazzeng-seo-new' );
 $updater->initialize();
