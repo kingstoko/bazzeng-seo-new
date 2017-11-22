@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Smashing Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.3.7
+	Version: 1.3.8
 	Author: Teguh Kings
 	Author URI: http://www.asiadevmedia.com
 */
